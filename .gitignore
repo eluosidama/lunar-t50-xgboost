@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.qa-deps/
+.idea/
+.vscode/
+outputs/
+*.vrt
+*.tif
+!examples/oxides_demo.tif
+*.tiff
+*.aux.xml
+*.part
